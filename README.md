@@ -66,7 +66,10 @@ and whatever you want me to work on 😅.
 </tr> 
 </table>
 </div>
-		
+
+<div align="center">
+	<img align="center" alt="Header" src="https://github.com/F404X/F404X/blob/output/github-contribution-grid-snake-dark.svg"/>
+</div>		
 		
 ##
 	
