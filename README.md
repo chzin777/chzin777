@@ -13,7 +13,7 @@
 
 <p align="left"> 
 
-👨🏻‍💻 I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm majoring in Systems Analysis and Development 🎓 UNIP(Universidade Paulista) 🏛 At 15 years old I had my first contact with programming and since then I fell in love 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i also love to study and make full stack projects 💻. I am currently working as an IT assistant and helping to develop small projects at the company where I work. 🚀🚀🚀
+👨🏻‍💻 I'm a brazilian Full Stack Web Developer passionate about technologies!	I'm trained in Systems Analysis and Development 🎓 UNIP(Universidade Paulista) 🏛 At 15 years old I had my first contact with programming and since then I fell in love 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that i also love to study and make full stack projects 💻. I am currently working as an IT assistant and helping to develop small projects at the company where I work. 🚀🚀🚀
 
 	
 ### Talking about Personal Stuffs:
