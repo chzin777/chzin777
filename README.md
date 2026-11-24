@@ -111,12 +111,6 @@
 <br />
 
 <div align="center">
-  <img alt="Contribution Snake" src="https://github.com/chzin777/chzin777/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br />
-
-<div align="center">
   <a href="https://comply.website" target="_blank">
     <img src="https://img.shields.io/badge/Comply-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Comply" />
   </a>
